@@ -1,0 +1,17 @@
+---
+title: "ReadME"
+---
+
+Project Title: My Personal Website (and also my ESC470 Design Portfolio)
+
+This project is to summarize my journey as an engineer thus far, as well as where I intend to go. It is intended to be a representation of who I am.
+
+Installation: N/A
+
+Usage: Go through the various pages to look at selected experiences from throughout my engineering journey, as well as my hockey jersey collection!
+
+Contributing: Always happy to learn from the best, so feel free to contribute some teachings! Contact info below
+
+License: N/A
+
+Contact: email - jaden.km.08@gmail.com

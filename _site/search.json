@@ -1,0 +1,372 @@
+[
+  {
+    "objectID": "sports.html",
+    "href": "sports.html",
+    "title": "Sports Analytics",
+    "section": "",
+    "text": "⚾ 2023 SMT Data Challenge\nMy first success story for sports analytics projects came in 2023, for the SMT data challenge. We entered the graduate student category, as one of the four of us was a grad student. Our project focused on evaluating the catchability of balls thrown to first based, to evaluate a first-baseman’s catching ability, since catching throws from other players accounts for the majority of their defensive work. We went on to win the graduate student division with our presentation at Carnegie Mellon and won 2000 USD. We also went to a Steelers game to celebrate! 🔗 GitHub Repo\n\n  \n    \n     13% Catch Probability\n  \n  \n    \n     52% Catch Probability\n  \n  \n    \n     74% Catch Probability\n  \n  \n    \n     98% Catch Probability\n  \n\n\n\n🏈 2024 Big Data Bowl\nMy next success story for sports analytics came through the 2024 Big Data Bowl. I got to work with the winners of the 2023 Big Data Bowl, fellow club members who taught me an immense amount. We also placed 9th at of over 300 submissions, winning 5000 USD. Our project focused on evaluating how players contributed to making tackles without being the player to make the tackle. This allowed for credit assignment in a continuous fashion rather than a binary outcome, creating more discriminatory power for evaluating good defensive play. 🔗 GitHub Repo  We also worked on improving the interpretability of our model, with updates such as the attention mechanism shown below \n\n\n🏀 2025 SPL x UTSPAN Data Challenge\nRiding on our club’s success with our recent projects, we reached out to Devin Pleuler of MLSE. This led to the SPL x UTSPAN data challenge, where students from UTSPAN were given data from MLSE’s sports performance lab’s markerless motion capture system. 🔗 GitHub Repo\n\n\n\nSkeletal Tracking Data of Free Throw Shooter\n\n\n\n\n2025 OUSAC Conference\nBuilding on the breakout of our Club through the SPL data challenge, the next step was to connect students with industry professionals. We did this by hosting a conference at the university of Toronto, with the help of the other major sports analytics clubs in Ontario, also know as OUSAC. With over 90 attendees, and keynotes from MLSE and Blackhawks speakers, this was a big step forward for developing sports analytics in Ontario, as well as connecting our sponsors (TISS, Blue Jays, MLSE) and students.\n\n\n\n? 2025 SPL x UTSPAN Data Challenge ?\nStay Tuned!\n\n\nOther Works\nFor other work I’ve conducted in the field of sports analytics, please see my section on my analytics course project, focused on the concept of wins above replacement in the group context.",
+    "crumbs": [
+      "Sports Analytics"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "ReadME",
+    "section": "",
+    "text": "Project Title: My Personal Website (and also my ESC470 Design Portfolio)\nThis project is to summarize my journey as an engineer thus far, as well as where I intend to go.\nInstallation: N/A\nUsage: Go through the various pages to look at selected experiences from throughout my engineering journey, as well as my hockey jersey collection!\nContributing: Always happy to learn from the best, so feel free to contribute some teachings! Contact info below\nLicense: N/A\nContact: email - jaden.km.08@gmail.com",
+    "crumbs": [
+      "ReadME"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jaden K. Majumdar",
+    "section": "",
+    "text": "Who am I?\n    \n    4th year Engineering Science Energy Systems student\n    Oilers Fan\n    Buffalo Bills Fan\n    Raptors Fan\n    Blue Jays Fan\n    Arsenal Fan\n    Dual Can-U.S. Citizen",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Document",
+    "section": "",
+    "text": "’’’",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "career.html",
+    "href": "career.html",
+    "title": "Career",
+    "section": "",
+    "text": "Career at Posterity Group\nI did my 16-month engineering coop at Posterity Group, where I got to learn about long-term forecasting and demand side management. I was nominated for coop student of the year by my supervisor. The first project I got to work on was developing a power bi dashboard for the city of Edmonton. I then got to work as a main on two projects for FortisBC, one of which doubled in budget due to our success. To see more of Posterity Group’s work, check out their website: PG-Web",
+    "crumbs": [
+      "Career"
+    ]
+  },
+  {
+    "objectID": "edu.html#engineering-science",
+    "href": "edu.html#engineering-science",
+    "title": "Education",
+    "section": "",
+    "text": "I did my undergraduate degree in the Engineering Science program at the University of Toronto, where I specialized in the energy systems major. I currently hold a 3.3 Cumulative GPA.",
+    "crumbs": [
+      "Education"
+    ]
+  },
+  {
+    "objectID": "edu.html#capstone",
+    "href": "edu.html#capstone",
+    "title": "My Document",
+    "section": "Capstone",
+    "text": "Capstone",
+    "crumbs": [
+      "Education"
+    ]
+  },
+  {
+    "objectID": "edu.html#analytics-in-action-course-project",
+    "href": "edu.html#analytics-in-action-course-project",
+    "title": "My Document",
+    "section": "Analytics in Action Course Project",
+    "text": "Analytics in Action Course Project",
+    "crumbs": [
+      "Education"
+    ]
+  },
+  {
+    "objectID": "edu.html#thesis",
+    "href": "edu.html#thesis",
+    "title": "My Document",
+    "section": "Thesis",
+    "text": "Thesis",
+    "crumbs": [
+      "Education"
+    ]
+  },
+  {
+    "objectID": "edu.html#other-key-courses",
+    "href": "edu.html#other-key-courses",
+    "title": "My Document",
+    "section": "Other Key Courses",
+    "text": "Other Key Courses",
+    "crumbs": [
+      "Education"
+    ]
+  },
+  {
+    "objectID": "future.html#reflecting",
+    "href": "future.html#reflecting",
+    "title": "My Document",
+    "section": "Reflecting",
+    "text": "Reflecting",
+    "crumbs": [
+      "Future"
+    ]
+  },
+  {
+    "objectID": "future.html#groupwar",
+    "href": "future.html#groupwar",
+    "title": "My Document",
+    "section": "GroupWAR",
+    "text": "GroupWAR",
+    "crumbs": [
+      "Future"
+    ]
+  },
+  {
+    "objectID": "future.html#continuing-at-pg",
+    "href": "future.html#continuing-at-pg",
+    "title": "My Document",
+    "section": "Continuing at PG",
+    "text": "Continuing at PG",
+    "crumbs": [
+      "Future"
+    ]
+  },
+  {
+    "objectID": "future.html#perpetual-learning",
+    "href": "future.html#perpetual-learning",
+    "title": "My Document",
+    "section": "Perpetual Learning",
+    "text": "Perpetual Learning",
+    "crumbs": [
+      "Future"
+    ]
+  },
+  {
+    "objectID": "closet.html",
+    "href": "closet.html",
+    "title": "The Jersey Closet",
+    "section": "",
+    "text": "You know what goes harder than an Evan Bouchard 2024 SCF jersey? A matching Mattias Ekholm Jersey that my mom owns!\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe first hockey jersey I ever owned, Darnell “The Doc” Nurse (My familly are Doctors)…\n\n\n\n\n\n\n\n\n\n\nWhile I missed the BOA in 2023 due to an MIE303 lab, I convinced my mom to get me a jersey since I could at least say the jersey had been.\n\n\n\n\n\n\n\n\n\n\nNothing screams retro like the jersey that symbolizes an oilers team that was around before I was born!\n\n\n\n\n\n\n\n\n\n\nI personally prefer grape crush, but as far as Oilers jersey’s go, the orange crush is a classic.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#row-2",
+    "href": "closet.html#row-2",
+    "title": "My Document",
+    "section": "Row 2",
+    "text": "Row 2\n\n\n\n\n\n\n\n\nRow 2 text goes here.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#row-3",
+    "href": "closet.html#row-3",
+    "title": "My Document",
+    "section": "Row 3",
+    "text": "Row 3\n\n\n\n\n\nRow 3 text goes here.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#row-4",
+    "href": "closet.html#row-4",
+    "title": "My Document",
+    "section": "Row 4",
+    "text": "Row 4\n\n\n\n\n\nRow 4 text goes here.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#row-5",
+    "href": "closet.html#row-5",
+    "title": "My Document",
+    "section": "Row 5",
+    "text": "Row 5\n\n\n\n\n\nRow 5 text goes here.\n\n\n\nOther Jerseys",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#row-6",
+    "href": "closet.html#row-6",
+    "title": "My Document",
+    "section": "Row 6",
+    "text": "Row 6\n\n\n\n\n\nRow 6 text goes here.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#row-7",
+    "href": "closet.html#row-7",
+    "title": "My Document",
+    "section": "Row 7",
+    "text": "Row 7\n\n\n\n\n\nRow 7 text goes here.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#row-8",
+    "href": "closet.html#row-8",
+    "title": "My Document",
+    "section": "Row 8",
+    "text": "Row 8\n\n\n\n\n\nRow 8 text goes here.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#row-9",
+    "href": "closet.html#row-9",
+    "title": "My Document",
+    "section": "Row 9",
+    "text": "Row 9\n\n\n\n\n\n\n\n\nRow 9 text goes here.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#evan-bouchard",
+    "href": "closet.html#evan-bouchard",
+    "title": "The Jersey Closet",
+    "section": "Evan Bouchard",
+    "text": "Evan Bouchard\n\n\n\n\n\n\n\n\nYou know what goes harder than an Evan Bouchard 2024 SCF jersey? A matching Mattias Ekholm Jersey that my mom owns!",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#darnell-nurse",
+    "href": "closet.html#darnell-nurse",
+    "title": "The Jersey Closet",
+    "section": "Darnell Nurse",
+    "text": "Darnell Nurse\n\n\n\n\n\n\n\n\nThe first hockey jersey I ever owned, Darnell “The Doc” Nurse (My familly are Doctors)…",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#battle-of-alberta",
+    "href": "closet.html#battle-of-alberta",
+    "title": "The Jersey Closet",
+    "section": "Battle of Alberta",
+    "text": "Battle of Alberta\n\n\n\n\n\nWhile I missed the BOA in 2023 due to an MIE303 lab, I convinced my mom to get me a jersey since I could at least say the jersey had been.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#the-oil-cog",
+    "href": "closet.html#the-oil-cog",
+    "title": "The Jersey Closet",
+    "section": "The Oil Cog",
+    "text": "The Oil Cog\n\n\n\n\n\nNothing screams retro like the jersey that symbolizes an oilers team that was around before I was born!",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#orange-crush",
+    "href": "closet.html#orange-crush",
+    "title": "The Jersey Closet",
+    "section": "Orange Crush",
+    "text": "Orange Crush\n\n\n\n\n\nI personally prefer grape crush, but as far as Oilers jersey’s go, the orange crush is a classic.\n\n\n\nOther Jerseys",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#team-canada",
+    "href": "closet.html#team-canada",
+    "title": "The Jersey Closet",
+    "section": "Team Canada",
+    "text": "Team Canada\n\n\n\n\n\nA gift from a friend for completing my engineering CO-OP! Golden Goal of friendship anyone?",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#linkoping-hc",
+    "href": "closet.html#linkoping-hc",
+    "title": "The Jersey Closet",
+    "section": "Linkoping HC",
+    "text": "Linkoping HC\n\n\n\n\n\nA jersey from my journey to Sweden for LINHAC 2023 (we most definitely did not win, but still had lots of fun).",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#beleaf",
+    "href": "closet.html#beleaf",
+    "title": "The Jersey Closet",
+    "section": "Beleaf!",
+    "text": "Beleaf!\n\n\n\n\n\nSomewhere out there there’s a video of me celebrating the Morgan Rielly OT winner in game 3 of the 2023 playoffs. Somewhere.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#a-red-sox-jersey-never-worn",
+    "href": "closet.html#a-red-sox-jersey-never-worn",
+    "title": "The Jersey Closet",
+    "section": "A Red Sox Jersey, Never Worn",
+    "text": "A Red Sox Jersey, Never Worn\n\n\n\n\n\n\n\n\nBoooo! Booooooooo! I know I know. But this jersey was a gift from my dad when I was young, because I thought the fans we’re booing him when he was up to bat, when in reality they we’re yelling “Yooooouk”!",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "edu.html#key-courses",
+    "href": "edu.html#key-courses",
+    "title": "Education",
+    "section": "",
+    "text": "One of the key courses I took in my degree was the energy systems capstone. While I cannot share all the details of what we worked on, the focus was on integrating renewables with battery systems that were actively supplying load.\n\n\n\nAnother project based course I took in my fourth year, where I had the opportunity to learn about both predictive and perscriptive analytics. We then built a project with a focus on groupWAR, the idea that replacement level players have different value in hockey depending on the context of the team.\n\n\n\nIn my fourth year of study I’m conducting my undergraduate thesis, supervised by Zeb Tate (Department of ECE), as well as with advice from Julian Nappert (Posterity Group). The focus is on creating Bayesian time series end use models, so that traditional end use forecasting methods can focus on associated variance, rather than just deterministic load.\n\n\n\n\nCiv102 and Civ401: Intro to Statics and Optimization of Wind and Hydro Plants\nECE367 and MIE535: Convex Optimization and Electricity Markets\nECE463 and ECE349: Electric Drives and Power Electronics\nCHE260 and MIE313: Intro to Thermodynamics and Thermodynamic Conversion Processes\nPraxis 1-3: Design focused courses, with group projects used to develop engineering skills in a hands on manner",
+    "crumbs": [
+      "Education"
+    ]
+  },
+  {
+    "objectID": "edu.html",
+    "href": "edu.html",
+    "title": "Education",
+    "section": "",
+    "text": "I did my undergraduate degree in the Engineering Science program at the University of Toronto, where I specialized in the energy systems major. I currently hold a 3.3 Cumulative GPA.\n\n\n\n\n\nOne of the key courses I took in my degree was the energy systems capstone. While I cannot share all the details of what we worked on, the focus was on integrating renewables with battery systems that were actively supplying load.\n\n\n\nAnother project based course I took in my fourth year, where I had the opportunity to learn about both predictive and perscriptive analytics. We then built a project with a focus on groupWAR, the idea that replacement level players have different value in hockey depending on the context of the team.\n\n\n\nIn my fourth year of study I’m conducting my undergraduate thesis, supervised by Zeb Tate (Department of ECE), as well as with advice from Julian Nappert (Posterity Group). The focus is on creating Bayesian time series end use models, so that traditional end use forecasting methods can focus on associated variance, rather than just deterministic load.\n\n\n\n\nCiv102 and Civ401: Intro to Statics and Optimization of Wind and Hydro Plants\nECE367 and MIE535: Convex Optimization and Electricity Markets\nECE463 and ECE349: Electric Drives and Power Electronics\nCHE260 and MIE313: Intro to Thermodynamics and Thermodynamic Conversion Processes\nPraxis 1-3: Design focused courses, with group projects used to develop engineering skills in a hands on manner",
+    "crumbs": [
+      "Education"
+    ]
+  },
+  {
+    "objectID": "closet.html#oilers-jerseys",
+    "href": "closet.html#oilers-jerseys",
+    "title": "The Jersey Closet",
+    "section": "",
+    "text": "You know what goes harder than an Evan Bouchard 2024 SCF jersey? A matching Mattias Ekholm Jersey that my mom owns!\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe first hockey jersey I ever owned, Darnell “The Doc” Nurse (My familly are Doctors)…\n\n\n\n\n\n\n\n\n\n\nWhile I missed the BOA in 2023 due to an MIE303 lab, I convinced my mom to get me a jersey since I could at least say the jersey had been.\n\n\n\n\n\n\n\n\n\n\nNothing screams retro like the jersey that symbolizes an oilers team that was around before I was born!\n\n\n\n\n\n\n\n\n\n\nI personally prefer grape crush, but as far as Oilers jersey’s go, the orange crush is a classic.",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "closet.html#other-jerseys",
+    "href": "closet.html#other-jerseys",
+    "title": "The Jersey Closet",
+    "section": "Other Jerseys",
+    "text": "Other Jerseys\n\nTeam Canada\n\n\n\n\n\nA gift from a friend for completing my engineering CO-OP! Golden Goal of friendship anyone?\n\n\n\n\nLinkoping HC\n\n\n\n\n\nA jersey from my journey to Sweden for LINHAC 2023 (we most definitely did not win, but still had lots of fun).\n\n\n\n\nBeleaf!\n\n\n\n\n\nSomewhere out there there’s a video of me celebrating the Morgan Rielly OT winner in game 3 of the 2023 playoffs. Somewhere.\n\n\n\n\nA Red Sox Jersey, Never Worn\n\n\n\n\n\n\n\n\nBoooo! Booooooooo! I know I know. But this jersey was a gift from my dad when I was young, because I thought the fans we’re booing him when he was up to bat, when in reality they we’re yelling “Yooooouk”!",
+    "crumbs": [
+      "The Jersey Closet"
+    ]
+  },
+  {
+    "objectID": "future.html",
+    "href": "future.html",
+    "title": "What’s Next is All Anyone Needs to Begin",
+    "section": "",
+    "text": "The Past is Prologue\nThroughout the many experiences during my undergraduate degree, I’ve learned a lot. Its just as important to remember what we’ve learned as it is to look forward to see what we can learn next. I learned how communication impacts results, especially through sports analytics projects, where technical work must be explained in the terms of the sport. I learned about professionalism, through my capstone project where we worked with a client whose technical ideas we did not necessarily agree with. I learned the value of proper project and time management through my many group projects, where having the right people working on the right tasks ultimately dictated results. And most importantly, I learned that there’s always a bigger fish: as much as I’ve learned so far, there will always be more to learn. With these ideas in mind, its worth considering how my immediate next steps continue the development of these skills and continue my learning.\n\n\nGroupWAR\nThe GroupWAR project is something I intend to continue to build out in the public domain. The three main facets are to present it at a conference, build out a website and develop the idea for basketball. Continuing this project allows me to continue to sharpen my communication skills, as I turn such complex ideas into visuals and reports on players. If anyone is interested more in understanding this project or the related work, please reach out!\n\n\nContinuing at PG\nThe next step in my professional career is returning to Posterity Group as a full time consultant. There, I will be given the opportunity to manage projects, and continue to work with clients, allowing me to further develop my project management and professionalism skills.\n\n\nThank You\nThat’s all for now! So long, and thanks for all the fish! May they continue to get bigger…",
+    "crumbs": [
+      "The Past is Prologue"
+    ]
+  }
+]

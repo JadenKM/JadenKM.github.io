@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Document"
+  sidebar:
+    style: "docked"
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: ReadME
+      - href: edu.qmd
+        text: Education
+      - href: sports.qmd
+        text: Sports Analytics
+      - href: closet.qmd
+        text: The Jersey Closet
+      - href: career.qmd
+        text: Career
+      - href: future.qmd
+        text: The Past is Prologue
+      - href: resume.qmd
+        text: Resume
+
+
+format:
+  html:
+  
+    theme:
+      light: [flatly, styles.css]
+      dark:  [darkly, dark.css]
+    respect-user-color-scheme: true
+    toc: true
+    navigation:
+      type: sidebar
+
+
+

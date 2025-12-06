@@ -1,0 +1,22 @@
+---
+title: "Career"
+---
+
+### Career at Posterity Group
+
+I did my 16-month engineering coop at Posterity Group, where I got to learn about long-term forecasting and demand side management. I was nominated for coop student of the year by my supervisor.
+The first project I got to work on was developing a power bi dashboard for the city of Edmonton.
+I then got to work as a main on two projects for FortisBC, one of which doubled in budget due to our success. 
+To see more of Posterity Group's work, check out their website: [PG-Web](https://www.posteritygroup.ca/)
+
+```{=html}
+<div class="split-container">
+  <div class="split-left">
+    <img src="images\IMG_9168.jpeg" alt="Project Image">
+  </div>
+  <div class="split-right">
+    <img src="images\IMG_9554.jpeg" alt="Project Image">
+  </div>
+</div>
+```
+

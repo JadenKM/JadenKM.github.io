@@ -1,0 +1,163 @@
+/*-- scss:rules --*/
+
+body {
+     font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+     background: #ffffff;
+     color: #5a0287;
+     overflow-x: hidden;
+     min-height: 100vh;
+     font-weight: 400;
+     line-height: 1.6;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+}
+/* Enhanced background colors - Purple/Pink/Green palette */
+ .neural-background {
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     z-index: -2;
+     background: radial-gradient(circle at 15% 85%, rgba(75, 0, 130, 0.7) 0%, transparent 50%), radial-gradient(circle at 85% 15%, rgba(139, 37, 99, 0.8) 0%, transparent 50%), radial-gradient(circle at 45% 60%, rgba(128, 0, 128, 0.6) 0%, transparent 50%), radial-gradient(circle at 70% 40%, rgba(34, 139, 34, 0.4) 0%, transparent 50%), linear-gradient(135deg, #0a0a0a 0%, #2d1b3d 50%, #000000 100%);
+     animation: backgroundPulse 14s ease-in-out infinite;
+}
+ @keyframes backgroundPulse {
+     0%, 100% {
+         filter: brightness(0.9) saturate(1.4) hue-rotate(0deg);
+    }
+     33% {
+         filter: brightness(1.1) saturate(1.7) hue-rotate(15deg);
+    }
+     66% {
+         filter: brightness(1.0) saturate(1.5) hue-rotate(-10deg);
+    }
+}
+
+.gif-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+  margin-top: 1.5rem;
+}
+
+.gif-item {
+  flex: 1 1 calc(25% - 1rem);
+  text-align: center;
+}
+
+.gif-item img {
+  width: 100%;
+  max-height: 180px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.gif-item p {
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
+project-card {
+  background-color: #f9f9f9;
+  border-left: 5px solid #2c3e50;
+  padding: 1.2rem;
+  margin: 1.2rem 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.split-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 1rem;
+}
+
+.split-left, .split-right {
+  flex: 1 1 45%;
+}
+
+.split-left img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Center text vertically and horizontally */
+.split-right {
+  display: flex;
+  align-items: center;     /* vertical centering */
+  justify-content: center; /* horizontal centering */
+  text-align: center;
+}
+
+.split-right img{
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Optional: limit text width inside the center */
+.text-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem; /* adds space between items */
+  max-width: 90%;
+}
+
+.text-content h3 {
+  margin-bottom: 0.5rem;
+}
+
+.text-content ul {
+  padding-left: 1.2rem;
+  text-align: left; /* keep list left-aligned even if container is centered */
+}
+
+.text-content li {
+  margin-bottom: 0.5rem;
+}
+
+/* Stack on small screens */
+@media (max-width: 768px) {
+  .split-container {
+    flex-direction: column;
+  }
+
+  .split-right {
+    justify-content: flex-start; /* Optional: top-align on small screens */
+    text-align: left;
+  }
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.row .text {
+  flex: 1;
+}
+
+.row .image {
+  flex: 1;
+}
+
+.row .image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px; /* optional */
+}
+
+/* Flips the order for alternating rows */
+.reverse {
+  flex-direction: row-reverse;
+}

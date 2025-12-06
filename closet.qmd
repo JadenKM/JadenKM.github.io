@@ -1,0 +1,106 @@
+---
+title: "The Jersey Closet"
+---
+
+## Oilers Jerseys
+### Evan Bouchard
+::: {.row}
+<div class="image">
+  <img src="images\Bouchard_Front.jpeg">
+</div>
+<div class="image">
+  <img src="images\Bourchard_Back.jpeg">
+</div>
+<div class="text">
+  **You know what goes harder than an Evan Bouchard 2024 SCF jersey? A matching Mattias Ekholm Jersey that my mom owns!**
+</div>
+:::
+
+### Darnell Nurse
+::: {.row .reverse}
+<div class="image">
+  <img src="images\Nurse_Front.jpeg">
+</div>
+<div class="image">
+  <img src="images\Nurse_Back.jpeg">
+</div>
+<div class="text">
+  **The first hockey jersey I ever owned, Darnell "The Doc" Nurse (My familly are Doctors)...**
+</div>
+:::
+
+### Battle of Alberta
+::: {.row}
+<div class="image">
+  <img src="images\McDavid Front.jpeg">
+</div>
+<div class="text">
+  **While I missed the BOA in 2023 due to an MIE303 lab, I convinced my mom to get me a jersey since I could at least say the jersey had been.**
+</div>
+:::
+
+### The Oil Cog
+::: {.row .reverse}
+<div class="image">
+  <img src="images\Cog_Front.jpeg">
+</div>
+<div class="text">
+  **Nothing screams retro like the jersey that symbolizes an oilers team that was around before I was born!**
+</div>
+:::
+
+### Orange Crush
+::: {.row}
+<div class="image">
+  <img src="images\Orange_Crush_Front.jpeg">
+</div>
+<div class="text">
+  **I personally prefer grape crush, but as far as Oilers jersey's go, the orange crush is a classic.**
+</div>
+:::
+
+## Other Jerseys
+
+### Team Canada
+::: {.row .reverse}
+<div class="image">
+  <img src="images\Canada_Front.jpeg">
+</div>
+<div class="text">
+  **A gift from a friend for completing my engineering CO-OP! Golden Goal of friendship anyone?**
+</div>
+:::
+
+### Linkoping HC
+::: {.row}
+<div class="image">
+  <img src="images\LHC_front.jpeg">
+</div>
+<div class="text">
+  **A jersey from my journey to Sweden for LINHAC 2023 (we most definitely did not win, but still had lots of fun).**
+</div>
+:::
+
+### Beleaf!
+::: {.row .reverse}
+<div class="image">
+  <img src="images\Leafs_front.jpeg">
+</div>
+<div class="text">
+  **Somewhere out there there's a video of me celebrating the Morgan Rielly OT winner in game 3 of the 2023 playoffs. Somewhere.**
+</div>
+:::
+
+### A Red Sox Jersey, Never Worn
+::: {.row}
+<div class="image">
+  <img src="images\Youkilis_Front.jpeg">
+</div>
+<div class="image">
+  <img src=images\Youkilis_Back.jpeg>
+</div>
+<div class="text">
+  **Boooo! Booooooooo! I know I know. But this jersey was a gift from my dad when I was young, because I thought the fans we're booing him when he was up to bat, when in reality they we're yelling "Yooooouk"!**
+</div>
+:::
+

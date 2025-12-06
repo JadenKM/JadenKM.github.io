@@ -1,0 +1,32 @@
+---
+title: "Education"
+---
+
+# Undergraduate Degree at the University of Toronto
+
+## Engineering Science
+I did my undergraduate degree in the Engineering Science program at the University of Toronto, where I specialized in the energy systems major. I currently hold a 3.3 Cumulative GPA. 
+
+## Key Courses
+
+### Capstone
+
+One of the key courses I took in my degree was the energy systems capstone. While I cannot share all the details of what we worked on, the focus was on integrating 
+renewables with battery systems that were actively supplying load.
+
+### Analytics in Action Course Project
+
+Another project based course I took in my fourth year, where I had the opportunity to learn about both predictive and perscriptive analytics. 
+We then built a project with a focus on groupWAR, the idea that replacement level players have different value in hockey depending on the context of the team.
+
+### Thesis
+
+In my fourth year of study I'm conducting my undergraduate thesis, supervised by Zeb Tate (Department of ECE), as well as with advice from Julian Nappert (Posterity Group).
+The focus is on creating Bayesian time series end use models, so that traditional end use forecasting methods can focus on associated variance, rather than just deterministic load.
+
+### Other Key Courses
+- Civ102 and Civ401: Intro to Statics and Optimization of Wind and Hydro Plants
+- ECE367 and MIE535: Convex Optimization and Electricity Markets
+- ECE463 and ECE349: Electric Drives and Power Electronics
+- CHE260 and MIE313: Intro to Thermodynamics and Thermodynamic Conversion Processes
+- Praxis 1-3: Design focused courses, with group projects used to develop engineering skills in a hands on manner
