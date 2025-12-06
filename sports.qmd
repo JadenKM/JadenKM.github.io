@@ -2,6 +2,8 @@
 title: "Sports Analytics"
 ---
 
+This section overviews my extra-curiculars in sports analytics, where I've learned a lot of engineering skills through projects.
+
 ### ⚾ 2023 SMT Data Challenge
 
 My first success story for sports analytics projects came in 2023, for the SMT data challenge. We entered the graduate student category, as one of the four of us was a grad student. Our project focused on evaluating the catchability of balls thrown to first based, to evaluate a first-baseman’s catching ability, since catching throws from other players accounts for the majority of their defensive work. We went on to win the graduate student division with our presentation at Carnegie Mellon and won 2000 USD. We also went to a Steelers game to celebrate!
