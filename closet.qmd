@@ -45,7 +45,7 @@ title: "The Jersey Closet"
   <img src="images\Cog_Front.jpeg">
 </div>
 <div class="text">
-  **Nothing screams retro like the jersey that symbolizes an oilers team that was around before I was born!**
+  **Nothing screams retro like the jersey that symbolizes an Oilers team that was around before I was born!**
 </div>
 :::
 
@@ -55,7 +55,7 @@ title: "The Jersey Closet"
   <img src="images\Orange_Crush_Front.jpeg">
 </div>
 <div class="text">
-  **I personally prefer grape crush, but as far as Oilers jersey's go, the orange crush is a classic.**
+  **I personally prefer grape crush, but as far as Oilers jerseys go, the orange crush is a classic.**
 </div>
 :::
 

@@ -52,4 +52,4 @@ Building on the breakout of our Club through the SPL data challenge, the next st
 Stay Tuned!
 
 ### Other Works
-For other work I've conducted in the field of sports analytics, please see my section on my analytics course project, focused on the concept of wins above replacement in the group context.
+For other work I've conducted in the field of sports analytics, please see my section on my analytics course project, focused on GroupWAR, the concept of wins above replacement in the group context.
